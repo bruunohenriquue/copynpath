@@ -1,0 +1,16 @@
+C:\Users\cbyl-dev\source\repos\CopiarNPath\CopiarNPath\bin\Release\net5.0\CopiarNPath.exe
+C:\Users\cbyl-dev\source\repos\CopiarNPath\CopiarNPath\bin\Release\net5.0\CopiarNPath.deps.json
+C:\Users\cbyl-dev\source\repos\CopiarNPath\CopiarNPath\bin\Release\net5.0\CopiarNPath.runtimeconfig.json
+C:\Users\cbyl-dev\source\repos\CopiarNPath\CopiarNPath\bin\Release\net5.0\CopiarNPath.runtimeconfig.dev.json
+C:\Users\cbyl-dev\source\repos\CopiarNPath\CopiarNPath\bin\Release\net5.0\CopiarNPath.dll
+C:\Users\cbyl-dev\source\repos\CopiarNPath\CopiarNPath\bin\Release\net5.0\ref\CopiarNPath.dll
+C:\Users\cbyl-dev\source\repos\CopiarNPath\CopiarNPath\bin\Release\net5.0\CopiarNPath.pdb
+C:\Users\cbyl-dev\source\repos\CopiarNPath\CopiarNPath\obj\Release\net5.0\CopiarNPath.csproj.AssemblyReference.cache
+C:\Users\cbyl-dev\source\repos\CopiarNPath\CopiarNPath\obj\Release\net5.0\CopiarNPath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbyl-dev\source\repos\CopiarNPath\CopiarNPath\obj\Release\net5.0\CopiarNPath.AssemblyInfoInputs.cache
+C:\Users\cbyl-dev\source\repos\CopiarNPath\CopiarNPath\obj\Release\net5.0\CopiarNPath.AssemblyInfo.cs
+C:\Users\cbyl-dev\source\repos\CopiarNPath\CopiarNPath\obj\Release\net5.0\CopiarNPath.csproj.CoreCompileInputs.cache
+C:\Users\cbyl-dev\source\repos\CopiarNPath\CopiarNPath\obj\Release\net5.0\CopiarNPath.dll
+C:\Users\cbyl-dev\source\repos\CopiarNPath\CopiarNPath\obj\Release\net5.0\ref\CopiarNPath.dll
+C:\Users\cbyl-dev\source\repos\CopiarNPath\CopiarNPath\obj\Release\net5.0\CopiarNPath.pdb
+C:\Users\cbyl-dev\source\repos\CopiarNPath\CopiarNPath\obj\Release\net5.0\CopiarNPath.genruntimeconfig.cache
